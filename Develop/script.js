@@ -1,5 +1,20 @@
 // Assignment code here
+console.log("hello world");
+function generatePassword() {
+  var result = ""
+  result = window.prompt(" You rock!")
 
+
+
+
+
+
+
+
+
+
+  return result
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
